@@ -1,4 +1,4 @@
-# Explorer PM – AI Personal Finance Assistant
+  # Explorer PM – AI Personal Finance Assistant
 
 An AI-powered personal finance application built using Python and Machine Learning to support insurance premium prediction, investment suggestions, and financial risk analysis.
 
@@ -21,7 +21,6 @@ An AI-powered personal finance application built using Python and Machine Learni
 - `model.py` – Machine learning model functionality
 - `preprocess.py` – Input preprocessing
 - `insurance_data.xlsx` – Dataset
-- `saved_model/` – Trained model files
 - `requirements.txt` – Project dependencies
 
 ## How to Run
